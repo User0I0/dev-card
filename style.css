@@ -1,0 +1,44 @@
+.card-body{
+    background: rgb(255, 255, 255);
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
+}
+.dev-info{
+    height: 500px;
+    width: 500px;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 10px;
+    margin-top: -25px;
+}
+.dev-img{
+    display: block;
+    margin: 0 auto;
+}
+.name{
+    font-weight: 500px;
+    font-size: 50px;
+    color:blue;
+    text-align: center;
+}
+.job{
+    font-weight: 50px;
+    font-size: 30px;
+    color:rgb(102, 102, 103);
+    text-align: center;
+    line-height: 100px;
+}
+.social{
+    font-weight: 40px;
+    font-size: 20px;
+    color:rgb(42, 42, 44);
+    text-align: center;
+    line-height: 50px;
+}
+.left-text{
+    display: inline-block;
+}
+.right-text{
+    display: inline-block;
+}
